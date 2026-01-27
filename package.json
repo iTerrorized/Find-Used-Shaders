@@ -3,9 +3,9 @@
   "displayName": "JS-Template",
   "version": "0.0.0",
   "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
+  "url": "https://github.com/JustSleightly/VPM-Package-Template",
   "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
+    "com.vrchat.avatars": "^3.10.0"
   },
   "type": "tool",
   "keywords": [
