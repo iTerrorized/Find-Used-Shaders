@@ -1,22 +1,21 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/VPM-Package-Template",
+  "name": "dev.terrorized.findusedshaders",
+  "displayName": "Find Used Shaders",
+  "version": "1.0.1",
+  "description": "Find Used Shaders on a game object",
+  "url": "https://github.com/iTerrorized/Find-Used-Shaders",
   "vpmDependencies": {
     "com.vrchat.avatars": "^3.10.0"
   },
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
-    "VRChat",
-    "Template"
+    "Terrorized",
+    "Editor Tool",
+    "VRChat"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
   }
 }
